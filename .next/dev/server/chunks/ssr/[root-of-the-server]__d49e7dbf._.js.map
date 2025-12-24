@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///home/kairos/catkin_ws/lynk-hub/app/login/page.tsx"],"sourcesContent":["import AuthScreen from \"../components/AuthScreen\";\n\nexport default function LoginPage() {\n  return <AuthScreen initialMode=\"login\" />;\n}\n"],"names":[],"mappings":";;;;;;;;;;;;AAEe,SAAS;IACtB,qBAAO,8OAAC;QAAW,aAAY;;;;;;AACjC"}}]
+}

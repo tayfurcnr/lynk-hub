@@ -1,0 +1,10 @@
+{
+  "[project]/app/components/MiniMap.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/app/components/MiniMap.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_leaflet_dist_532f3653._.js",
+      "static/chunks/app_components_MiniMap_tsx_931a11ab._.js",
+      "static/chunks/app_components_MiniMap_tsx_17792963._.js"
+    ]
+  }
+}
